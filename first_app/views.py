@@ -4,4 +4,5 @@ from django.shortcuts import render
 
 
 def addfunc(a,b):
+    "return addition of two numbers"
     return a+b
