@@ -9,4 +9,5 @@ def addfunc(a,b):
 
 
 def mul(a,b):
+    "returs mul of two numbers"
     return a*b
